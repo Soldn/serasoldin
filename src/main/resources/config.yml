@@ -1,0 +1,10 @@
+ore:
+  name: "&6Оранжевая руда"
+  spawn-rate: 20
+  cluster-min: 3
+  cluster-max: 4
+
+respawn-on-restart: true
+respawn-world: "world"
+
+developer: "Soldi_n"
